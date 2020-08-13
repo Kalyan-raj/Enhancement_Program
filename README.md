@@ -8,6 +8,6 @@ day 4 : https://www.tinkercad.com/things/5xETBajajDv-day3/editel?sharecode=O3um8
 Password: PES
 
 
-If password is enterd right, LED turns ON.
+If password is entered right, LED turns ON.
  
  
